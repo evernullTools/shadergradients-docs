@@ -1,0 +1,58 @@
+site_name: Shader Gradients
+site_description: Documentation for Evernull Shader Gradients
+site_url: https://evernulltools.github.io/shadergradients-docs/
+site_author: Evernull Tools
+
+use_directory_urls: false
+
+theme:
+  name: material
+  logo: images/shaderGradients_smallIcon.png
+  favicon: images/shaderGradients_smallIcon.png
+  custom_dir: overrides
+
+
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep purple
+
+nav:
+    - Welcome!: index.md
+    - Quick Start: quick_setup.md
+    - Quick Start (HLSL/ShaderLab): quick_setup_hlsl.md
+    - How does it work?: howitworks.md
+    - FAQ: faq.md
+
+features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - print-site
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/vA2xMPfbgV
+
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@EvernullTools
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/bartu-saripinarli/
+
+    - icon: fontawesome/solid/envelope
+      link: mailto:evernulltools@gmail.com

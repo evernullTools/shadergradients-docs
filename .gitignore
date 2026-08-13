@@ -1,0 +1,19 @@
+# MkDocs generated site
+site/
+
+# Local Builds
+build/
+
+# Visual Studio
+.vs/
+
+# Generated offline documentation
+ShaderGradientsDocumentation.html
+temp_baked.html
+
+# Legacy local helper script
+bake_videos.py
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://evernulltools.github.io/shadergradients-docs/index.html</loc>
+         <lastmod>2026-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://evernulltools.github.io/shadergradients-docs/faq.html</loc>
+         <lastmod>2026-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://evernulltools.github.io/shadergradients-docs/howitworks.html</loc>
+         <lastmod>2026-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://evernulltools.github.io/shadergradients-docs/quick_setup.html</loc>
+         <lastmod>2026-09-23</lastmod>
+    </url>
+    <url>
+         <loc>https://evernulltools.github.io/shadergradients-docs/quick_setup_hlsl.html</loc>
+         <lastmod>2026-09-23</lastmod>
+    </url>
+</urlset>
